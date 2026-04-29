@@ -1,2 +1,2 @@
-# Making the Dialogic Feedback Process Traceable: Using Analytics to Examine Students' Reflections and Action Plans
+# Making Feedback Traceable: Analytics for Examining How Students Act on Feedback via Reflections and Action Plans
 This repository contains the codeing scheme used in the analysis.
